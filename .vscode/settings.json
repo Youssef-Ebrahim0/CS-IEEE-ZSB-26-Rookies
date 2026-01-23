@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.cpp": "cpp",
+    "stdexcept": "cpp",
+    "ostream": "cpp",
+    "xlocale": "cpp",
+    "utility": "cpp",
+    "xutility": "cpp"
+  }
+}
